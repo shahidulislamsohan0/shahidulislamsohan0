@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahidulislamsohan
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning Bootstrap
+- 👀 I’m interested in web developing 
+- 🌱 I’m currently learning Php and Laravel 
   
 
 <!---
