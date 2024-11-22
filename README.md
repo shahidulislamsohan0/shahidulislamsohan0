@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahidulislamsohan
+- 👋 Hi, I’m Shahidul Islam Sohan
 - 👀 I’m interested in web developing 
 - 🌱 I’m currently learning Php and Laravel 
   
